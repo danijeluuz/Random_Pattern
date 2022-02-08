@@ -1,0 +1,5 @@
+TITLE/
+Modulable random pattern generator
+
+DESCRIPTION/
+My concept is a pattern generator made with the 3 elementary shapes: circle, square and triangle. Thanks to the random factor, the tool can create inspirational compositions that you can download as jpg.
